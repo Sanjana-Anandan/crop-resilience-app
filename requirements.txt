@@ -6,6 +6,6 @@ matplotlib
 seaborn
 scikit-learn==1.6.1
 
-# Quantum-specific dependencies
-qiskit==1.2.4
-qiskit-machine-learning==0.7.2
+# Qiskit versions compatible with old model paths
+qiskit==0.45.3
+qiskit-machine-learning==0.6.1
