@@ -1,11 +1,9 @@
-streamlit==1.39.0
-joblib
-numpy
+streamlit
 pandas
+scikit-learn
+qiskit
+qiskit-machine-learning
+qiskit-aer
 matplotlib
-seaborn
-scikit-learn==1.6.1
-
-# Qiskit versions compatible with old model paths
-qiskit==0.45.3
-qiskit-machine-learning==0.6.1
+numpy
+joblib
