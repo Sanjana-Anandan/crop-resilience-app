@@ -5,4 +5,7 @@ pandas
 matplotlib
 seaborn
 scikit-learn==1.6.1
-qiskit
+
+# Quantum-specific dependencies
+qiskit==1.2.4
+qiskit-machine-learning==0.7.2
